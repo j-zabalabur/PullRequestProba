@@ -10,5 +10,6 @@ echo nl2br("Biderketa: ".$zenb1*$zenb2."\n");
 echo nl2br("Zatiketa: ".$zenb1/$zenb2."\n");
 echo "Hondarra: ".$zenb1%$zenb2;
 echo "<br>";
+echoechoechoechoechoehoc
 echo "Lerro jauziaren proba";
 ?>
