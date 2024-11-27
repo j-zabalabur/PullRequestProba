@@ -1,6 +1,6 @@
 <?php
-$zenb1=3;
-$zenb2=4;
+$zenb1=2;
+$zenb2=7;
 echo nl2br("Lehen zenbakia: ".$zenb1."\nBigarren zenbakia: ".$zenb2."\n");
 echo nl2br("Batuketa: ".$zenb1+$zenb2."\n");
 echo nl2br("Kenketa: ".$zenb1-$zenb2."\n");
